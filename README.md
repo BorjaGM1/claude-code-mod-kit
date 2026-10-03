@@ -3,7 +3,7 @@
 A Claude Code skill for building mods that draw, animate and react in the Claude
 desktop app, packed with everything the docs don't tell you.
 
-It came out of building **token-printer**: Clawd prints tokens above your prompt
+It came out of building **[token-printer](https://github.com/BorjaGM1/token-printer)**: Clawd prints tokens above your prompt
 box while Claude works. He startles awake when you start typing, follows your
 cursor with his eyes, and puts on shades at Max effort. Getting there meant
 finding out by trial and error how the desktop actually draws. This kit is that
